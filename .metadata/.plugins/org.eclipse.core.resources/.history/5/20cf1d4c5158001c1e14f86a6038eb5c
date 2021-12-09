@@ -1,0 +1,6 @@
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.url=jdbc:mysql:///chintu
+spring.datasource.username=root
+spring.datasource.password=123456
+spring.datasource.type=org.apache.commons.dbcp2.BasicDataSource.class
+#MYSQL CFG

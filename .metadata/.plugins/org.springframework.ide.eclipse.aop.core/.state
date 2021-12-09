@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="10-LayerdApplication-Visiter-Profilers-ALLWAYS"/>
+<aop-project name="09-LayerdApplication-Visiter-Place"/>
+<aop-project name="08-LayerdApplication-VisiterPlace"/>
+<aop-project name="07-MicroservicessApp-1"/>
+</aop-reference-model>
